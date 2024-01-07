@@ -1,0 +1,8 @@
+rootProject.name = 'task_1'
+include 'Generator'
+include 'Objects'
+include 'Desirializer'
+include 'Serializer'
+include 'CRUD'
+include 'servlets'
+

@@ -1,0 +1,14 @@
+# Project exclude paths
+/.gradle/
+/build/
+/build/classes/java/main/
+/CRUD/build/
+/CRUD/build/classes/java/main/
+/Desirializer/build/
+/Desirializer/build/classes/java/main/
+/Generator/build/
+/Generator/build/classes/java/main/
+/Objects/build/
+/Objects/build/classes/java/main/
+/Serializer/build/
+/Serializer/build/classes/java/main/
